@@ -1,0 +1,10 @@
+{
+    "attributes" : [
+       { "color": "brown",
+        "value" : "ABC"
+    }    ],
+
+    "discription" : "this is a image of old books",
+    "image": "https://gateway.pinata.cloud/ipfs/Qmc7fW5Zy2dYFiVA4Kh9qY3faBPWrhpwMpqbWqfKKNCGvg",
+    "name": "picture"
+}
